@@ -1,1 +1,1 @@
-# try1
+# going through basic stuff to learn github commands
